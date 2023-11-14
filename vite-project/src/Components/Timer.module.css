@@ -1,0 +1,11 @@
+.timer {
+    color: black;
+}
+
+.timer__count {
+  font-weight: bold;
+}
+
+.timer__button {
+    color: white;
+}
